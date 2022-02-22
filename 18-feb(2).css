@@ -1,0 +1,20 @@
+.parent{
+    border: 5px solid black;
+    width:350px;
+    height:350px;
+    margin:100px;
+    position:relative;
+}
+.parent img {
+    width: 100%;
+    height:100%;
+}
+
+/* .child{
+    color: white;
+    background-color:;
+    position:absolute;
+    top:0px;
+    right:0px;
+
+} */
